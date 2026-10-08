@@ -10,6 +10,7 @@
 - **Аналитика:** Python, Pandas, SciPy, Scikit-Learn, CatBoost, LightAutoML
 - **Данные / BI:** PostgreSQL, BigQuery, Airflow, dbt, FastAPI, Power BI, DataLens
 - **Инфраструктура:** Docker, Prometheus, Grafana
+- **Инструменты:** Cursor
 
 ### Коммерческий опыт
 
