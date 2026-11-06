@@ -14,7 +14,7 @@
 
 ### Коммерческий опыт
 
-**CPA / product analytics**
+**CPA сеть**
 - DWH на PostgreSQL, витрины в dbt, ETL на Airflow
 - **20+** дашбордов DataLens для finance / marketing / product
 - API вокруг витрин: ранжирование офферов (EPC / LightAutoML), рейтинг пользователей (CatBoost), email-кэш
