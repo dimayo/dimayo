@@ -1,6 +1,6 @@
 ### Data Analyst (BI / Product Analytics) · 3 года коммерческого опыта
 
-3 года в аналитике: DWH/ETL (Airflow, PostgreSQL), BI-дашборды (DataLens / Power BI), ad-hoc исследования. Делаю витрины и отчётность под маркетинг/продукт, автоматизирую сбор данных по API и сервисы вокруг витрин (ранжирование, проверки, сегментация).
+3 года коммерческого опыта в аналитике: DWH/ETL (Airflow, PostgreSQL), BI-дашборды (DataLens / Power BI), ad-hoc исследования. Делаю витрины и отчётность под маркетинг/продукт, автоматизирую сбор данных по API и сервисы вокруг витрин (ранжирование, проверки, сегментация).
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mayorkind)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayorkind@gmail.com)
